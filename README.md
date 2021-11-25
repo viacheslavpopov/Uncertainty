@@ -68,6 +68,8 @@ we plan to develop a space shooter action-packed adventure game based on boss fi
 
 ## Screenshots:  
 ![Ship & Boss 1](Documentation/GamePlay_Screenshots/ship_and_boss_1.jpg)
+![Ship & Boss 1](Documentation/GamePlay_Screenshots/ship_and_boss_1.jpg)
+![Ship & Boss 2](Documentation/GamePlay_Screenshots/ship_and_boss_3.jpg)
 
 ## Project Requirements:  
 ### Functional Requirements:  
