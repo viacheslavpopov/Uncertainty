@@ -14,38 +14,6 @@
     (Spring 2021)
   <br />
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#technical-specifications">Technical Specifications</a></li>
-    <li><a href="#screenshots">Screenshots</a></li>
-    <li>
-      <a href="#project-requirements">Project Requirements</a>
-      <ul>
-        <li><a href="#functional-requirements">Functional Requirements</a></li>
-        <li><a href="#non-functional-requirements">Non-Functional Requirements</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#project-documentation">Project Documentation</a>
-      <ul>
-        <li><a href="#needs-assessment-and-project-scenario">Needs assessment and project scenario</a></li>
-        <li><a href="#project-analysis-and-design">Project Analysis and Design</a></li>
-        <li><a href="#project-management">Project Management</a></li>
-      </ul>
-    </li>
-    <li><a href="#project-members">Project Members</a></li>
-    <li><a href="#license">License</a></li>
-  </ol>
-</details>
-
 
 ## About The Project:  
 Uncertainty is a 3D game developed in Unity 2019.4.16f1,  
@@ -68,7 +36,9 @@ we plan to develop a space shooter action-packed adventure game based on boss fi
 
 ## Screenshots:  
 ![Sky 1](Documentation/GamePlay_Screenshots/Sky_1.jpg)
+  
 ![Ship & Boss 1](Documentation/GamePlay_Screenshots/ship_and_boss_1.jpg)
+  
 ![Ship & Boss 2](Documentation/GamePlay_Screenshots/ship_and_boss_3.jpg)
 
 ## Project Requirements:  
