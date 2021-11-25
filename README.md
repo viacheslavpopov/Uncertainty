@@ -67,7 +67,7 @@ we plan to develop a space shooter action-packed adventure game based on boss fi
 - Database: Data are handled in Unity (using Serialization.Formatters.Binary)
 
 ## Screenshots:  
-![Ship & Boss 1](Documentation/GamePlay_Screenshots/ship_and_boss_1.jpg)
+![Sky 1](Documentation/GamePlay_Screenshots/Sky_1.jpg)
 ![Ship & Boss 1](Documentation/GamePlay_Screenshots/ship_and_boss_1.jpg)
 ![Ship & Boss 2](Documentation/GamePlay_Screenshots/ship_and_boss_3.jpg)
 
@@ -81,23 +81,6 @@ we plan to develop a space shooter action-packed adventure game based on boss fi
 - Performance - In order to ensure smooth lagging-free performance on all computers, the game must be optimized
 - Scalability - Software Architecture must be designed in such a way that the game can be expanded later on
 - Reliability - The game should not crash or present any issues that cause it to malfunction
-
-
-## Project Documentation:  
-
-### Needs assessment and project scenario:  
-- Project Scenario: [Link](Documentation/SCENARIO.md)
-- Project Needs assessment: [Link](Documentation/NEEDS_ASSESSMENT.md)  
-- Project Requirements: [Link](Documentation/Requirements.md)
-### Project Analysis and Design:
-- Usecase Diagram: [Link](Documentation/Usecase_Diagram.md)
-- Activity Diagram: [Link](Documentation/Activity_Diagram.md)
-- Class Diagram: [Link](Documentation/Class_Diagram.md)
-- Sequence Diagram: [Link](Documentation/Sequence_Diagram.md)  
-
-### Project Management:  
-- Project Phasing documentation: [Link](Documentation/Phasing.md) 
-- Project Scheduling documentation: [Link](Documentation/Project_Scheduling.md) 
 
 
 
