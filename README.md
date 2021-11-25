@@ -1,14 +1,4 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![milestones][milestones-shield]][milestones-url]
-[![MIT License][license-shield]][license-url]
-[![Issues][issues-shield]][issues-url]
-[![Closed Issues][issues-closed-shield]][issues-closed-url]
-[![pull requests][pull-req-shield]][pull-req-url]
-[![closed pull requests][pull-closed-shield]][pull-closed-url]
-![Code Quality][code-quality-shield]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -34,6 +24,10 @@ we plan to develop a space shooter action-packed adventure game based on boss fi
 - Programming Languages: C#
 - Database: Data are handled in Unity
 
+## Screenshots:  
+![Sky 1](Documentation/GamePlay_Screenshots/Sky_1.jpg)
+![Ship & Boss 1](Documentation/GamePlay_Screenshots/ship_and_boss_1.jpg)
+![Ship & Boss 2](Documentation/GamePlay_Screenshots/ship_and_boss_3.jpg)
 
 ## Project Requirements:  
 #### Functional Requirements:  
