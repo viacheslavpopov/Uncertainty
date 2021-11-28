@@ -1,16 +1,3 @@
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![milestones][milestones-shield]][milestones-url]
-[![MIT License][license-shield]][license-url]
-[![Issues][issues-shield]][issues-url]
-[![Closed Issues][issues-closed-shield]][issues-closed-url]
-[![pull requests][pull-req-shield]][pull-req-url]
-[![closed pull requests][pull-closed-shield]][pull-closed-url]
-![Code Quality][code-quality-shield]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -107,16 +94,6 @@ we plan to develop a space shooter action-packed adventure game based on boss fi
 ### Project Management:  
 - Project Phasing documentation: [Link](Documentation/Phasing.md) 
 - Project Scheduling documentation: [Link](Documentation/Project_Scheduling.md) 
-
-
-## Project Members:  
-### Project Code: G14
-
-First and Last Name | Student Number | Responsibility | Username
---- | --- | --- | ---
-Parsa KamaliPour | `97149081` | Project Manager , Programmer | [Link](https://github.com/benymaxparsa)
-Mohammad Mahdi Afkhami | `97149008` | Programmer , Art Designer | [Link](https://github.com/mohmehdi)
-
 
 <!-- LICENSE -->
 ## License
