@@ -91,10 +91,6 @@ we plan to develop a space shooter action-packed adventure game based on boss fi
 - Class Diagram: [Link](Documentation/Class_Diagram.md)
 - Sequence Diagram: [Link](Documentation/Sequence_Diagram.md)  
 
-### Project Management:  
-- Project Phasing documentation: [Link](Documentation/Phasing.md) 
-- Project Scheduling documentation: [Link](Documentation/Project_Scheduling.md) 
-
 <!-- LICENSE -->
 ## License
 
