@@ -1,16 +1,4 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![milestones][milestones-shield]][milestones-url]
-[![MIT License][license-shield]][license-url]
-[![Issues][issues-shield]][issues-url]
-[![Closed Issues][issues-closed-shield]][issues-closed-url]
-[![pull requests][pull-req-shield]][pull-req-url]
-[![closed pull requests][pull-closed-shield]][pull-closed-url]
-![Code Quality][code-quality-shield]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
